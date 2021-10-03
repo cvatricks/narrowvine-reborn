@@ -3,7 +3,6 @@ import base64
 import os
 import time
 import binascii
-import google
 
 
 from google.protobuf.message import DecodeError
