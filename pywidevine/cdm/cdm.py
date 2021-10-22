@@ -20,7 +20,7 @@ from Cryptodome.PublicKey import RSA
 from Cryptodome.Signature import pss
 from Cryptodome.Util import Padding
 from Crypto.Util.number import bytes_to_long,long_to_bytes
-from pywidevine.cdm import cdmapi
+#from pywidevine.cdm import cdmapi
 import logging
 
 
